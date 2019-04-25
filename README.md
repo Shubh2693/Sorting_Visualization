@@ -5,6 +5,5 @@ Libraries used to Visualize different Sorting Algorithms are graphics.h, window.
 
 Working of code:
 Youtube Video: https://www.youtube.com/watch?v=yhmh5oiVS9w
-[![Watch the video](https://drive.google.com/open?id=1acKJ_4vAegHcDbPLmf3TFrdeVwRoCifA)](https://www.youtube.com/watch?v=yhmh5oiVS9w)
-
+[![](https://github.com/Shubh2693/Sorting_Visualization/blob/master/YT_thumbnail.jpg)]
 
